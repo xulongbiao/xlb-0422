@@ -1,0 +1,13 @@
+{
+    "name": "xlb/0422",
+    "description": "php, this is distributed lock by redis",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xlb",
+            "email": "515676737@qq.com"
+        }
+    ],
+    "require": {}
+}
